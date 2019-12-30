@@ -1,1 +1,1 @@
-# Testing Travis CI with Rust language
+# Testing Travis CI and GitHub Actions with Rust language
